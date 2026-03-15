@@ -1,6 +1,6 @@
 import pytest
 from unittest.mock import Mock
-# Импортируем классы для типизации моков
+
 from praktikum.bun import Bun
 from praktikum.ingredient import Ingredient
 from praktikum.burger import Burger

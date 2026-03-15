@@ -10,9 +10,6 @@ __pycache__/
 .venv/
 venv/ 
 
-# Файлы отчетов о покрытии
-.coverage
-htmlcov/
 
 # Настройки IDE (редактора)
 .vscode/
